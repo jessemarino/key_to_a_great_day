@@ -4,4 +4,4 @@ My motivation for this project was to create an awesome calander. My motivation 
 
  ![picture of website](./Assets/images/calander.png))
 
- URL:
+ URL: https://jessemarino.github.io/key_to_a_great_day/
