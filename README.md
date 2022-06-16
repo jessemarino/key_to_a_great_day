@@ -1,6 +1,16 @@
-# key_to_a_great_day
+# Key To a Great Day
 
-My motivation for this project was to create an awesome calander. My motivation for this was to make something to help me keep track of my homework assignments. I learned how to use momment.js and all of its cool abilities. Please see attached picture of my webpage.
+## Description
+
+My motivation for this project was to create a calander that would keep my notes in local storage so I can see them even if I leave the page. My motivation for this was to make something to help me keep track of my homework assignments and other notes while attending school. The time blocks are color coded with grey meaning that it has went past that hour, red meaning that it is the current hour, and green meaning that hour has yet to come.
+
+## Contributing
+
+If you would like to contribute please fork the repo and submit a pull request.
+
+## Questions
+
+If you have any questions please contact me through Github my username is jessemarino.
 
 ![picture of website](./assets/images/calander.png))
 
