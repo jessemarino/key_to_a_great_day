@@ -12,6 +12,6 @@ If you would like to contribute please fork the repo and submit a pull request.
 
 If you have any questions please contact me through Github my username is jessemarino.
 
-![picture of website](./assets/images/workday.png)
+![picture of website](/assets/images/workday.png)
 
 URL: https://jessemarino.github.io/key_to_a_great_day/
